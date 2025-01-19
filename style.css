@@ -35,7 +35,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 1140px;
+    max-width: 1440px;
     margin: 0px auto;
 }
 #navbar .brand-name{
@@ -51,7 +51,8 @@ header{
 }
 #navbar .nav-all-items .nav-list a{
     text-decoration: none;
-    margin-right: 30px;
+    margin-right: 45px;
+    margin-left: 70px;
     color: #424242;
     font-size: 1.4rem;
     font-weight: 500;
@@ -60,6 +61,35 @@ header{
 /* nav part end */
 /* ............... */
 
+/* header text and image part start*/
+#total-header-banner-and-img{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.header-tittle{
+    margin-top: 90px;
+    font-size: 4rem;
+}
+
+.header-img{
+    width: 100%;
+}
+   
+
+.btn{
+    color: white;
+    background-color: rgba(255, 144, 14, 1);
+    padding: 20px 25px;
+    border-radius: 5px;
+    margin-bottom: 45px;
+    border: none;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+
+
+/* header text and image part end*/
+/* .............................. */
 /* header part end */
 
 
